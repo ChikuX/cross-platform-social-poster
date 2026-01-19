@@ -95,8 +95,8 @@ Post Published Successfully
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/droidrun-social-poster.git
-cd droidrun-social-poster
+git clone https://github.com/ChikuX/cross-platform-social-poster.git
+cd cross-platform-social-poster
 ```
 
 ---
@@ -139,7 +139,7 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 
 ### 5️⃣ Run the automation script
 ```bash
-python post_automation.py
+python main.py
 ```
 
 ---
@@ -212,3 +212,4 @@ This project demonstrates how **device-level automation** can solve real-world p
 ## 👤 Author
 
 Developed by **CodeStrom** during a hackathon.
+
