@@ -56,7 +56,7 @@ async def post_to_platform(platform, post_text):
 
     if platform == 'x':
         goal = f"""
-    Open google chrome goto 'x.com'. close if any popup appears by denying them then
+    Open {platform}. (formerly Twitter).
     Create a new post with the following content:
     "{post_text}"
     Publish the post.
